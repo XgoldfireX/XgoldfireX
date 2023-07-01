@@ -1,6 +1,5 @@
 - 👋 Hi, I’m issac
-- 👀 I’m interested in games/music/lego/guns/dr
-- umming/
+- 👀 I’m interested in games/music/lego/guns/drumming
 - 🌱 I’m currently learning on how to code
 - 💞️ I’m looking to collaborate on storys/code/and createing games 
 - 📫 How to reach me acchomeschooler1@gmail.com
